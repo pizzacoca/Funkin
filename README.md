@@ -16,6 +16,10 @@ IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN 
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
 
+### Bramble mod
+
+  [Bramble]() - Art
+
 ## Build instructions
 
 THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
